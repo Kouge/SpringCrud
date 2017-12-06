@@ -1,0 +1,9 @@
+com\kkstudio\springcrud\entities\MicroMarket.class
+com\kkstudio\springcrud\util\QueryParameter.class
+com\kkstudio\springcrud\entities\Customer.class
+com\kkstudio\springcrud\controller\CustomerController.class
+com\kkstudio\springcrud\entities\DiscountCode.class
+com\kkstudio\springcrud\Initializer.class
+com\kkstudio\springcrud\RootConfig.class
+com\kkstudio\springcrud\service\CrudService.class
+com\kkstudio\springcrud\service\CrudServiceBean.class
